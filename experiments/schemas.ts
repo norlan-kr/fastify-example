@@ -1,4 +1,4 @@
-const pongGet = {
+const get = {
     response: {
         200: {
             type: 'object',
@@ -11,7 +11,7 @@ const pongGet = {
     }
 }
 
-const pongPost = {
+const post = {
     response: {
         200: {
             type: 'object',
@@ -24,4 +24,4 @@ const pongPost = {
     }
 }
 
-export {pongGet, pongPost}
+export {get, post}
