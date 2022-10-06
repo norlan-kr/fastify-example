@@ -35,6 +35,11 @@
   dependencies:
     fast-json-stringify "^5.0.0"
 
+"@fastify/type-provider-json-schema-to-ts@^2.1.1":
+  version "2.1.1"
+  resolved "https://krogertechnology.jfrog.io/artifactory/api/npm/npm-repo/@fastify/type-provider-json-schema-to-ts/-/type-provider-json-schema-to-ts-2.1.1.tgz#c20965a6666c8d6749094d0615ec4e0b25156e0e"
+  integrity sha512-U3Y3tIpH8x9xfEMYCrFC8Ohl8h7ziyphN4pHahgzp8D1PR7B0X/4yiNvdPUw//5BJ9es8OdVihrhAQMUeX356w==
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.0"
   resolved "https://krogertechnology.jfrog.io/artifactory/api/npm/npm-repo/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz#2203b118c157721addfe69d47b70465463066d78"
